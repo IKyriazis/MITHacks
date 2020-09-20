@@ -12,3 +12,6 @@ button and the percentage of users clicking on each button will be shown.
 - Analyze and improve accessibility
 - Improve UI/UX
 - crowder pic rotated and higher res
+- allow admin to skip thru topics
+- allow admin to make up the current topic
+- allow admin to pause and extend timer
